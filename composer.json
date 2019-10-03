@@ -1,17 +1,5 @@
 {
-    "name": "OpenMageModuleFostering/Quadra_Cybermut",
-    "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
-    "homepage": "",
-    "description": "CM-CIC p@iement (version 2)
-CyberMUT Paiement / Paiement CIC integration",
-    "authors": [
-    {
-        "name": "Quadra Informatique",
-        "email": "modules@quadra-informatique.fr"
-    }
-],
-    "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+    "keywords": [
+        "openmage-module"
+    ]
 }
